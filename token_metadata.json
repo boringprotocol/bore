@@ -2,5 +2,7 @@
   "name": "Bore",
   "symbol": "BORE",
   "description": "A Utility Token for the Boring Protocol Network",
-  "image": "https://github.com/boringprotoocl/bore/blob/main/logo.png"
+  "uri": "https://github.com/boringprotoocl/bore/blob/main/logo.png",
+  "seller_fee_basis_points": 0,
+  "creators": null
 }
